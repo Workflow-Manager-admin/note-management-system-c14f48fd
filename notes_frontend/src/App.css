@@ -8,6 +8,11 @@
   --border-color: #e9ecef;
   --button-bg: #007bff;
   --button-text: #ffffff;
+
+  /* Notes App new theme colors for override */
+  --notes-accent: #ff9800;
+  --notes-primary: #1976d2;
+  --notes-secondary: #424242;
 }
 
 [data-theme="dark"] {
